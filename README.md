@@ -15,7 +15,7 @@ To upload trips.csv with new data
 http://127.0.0.1:5000/uploadCSV/
 
 To Update Database
-http://127.0.0.1:5000/updateDatabase/?fileName=trips.csv
+http://127.0.0.1:5000/updateDatabase/
 
 To check update status
 http://127.0.0.1:5000/databaseStatus/
