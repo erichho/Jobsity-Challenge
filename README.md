@@ -25,3 +25,6 @@ http://127.0.0.1:5000/weeklyAverageRegion/?region=Turin
 
 To test finding the weekly average within a defined box. This tests calculates the weekly average for all Turin trips
 http://127.0.0.1:5000/weeklyAverageBox/?lonBox1=7.513035087952872&latBox1=44.976024665620514&lonBox2=7.739760019780325&latBox2=45.13940102848316
+
+Proof the solution is scalable to 100 Million registers. In this link there is the log for processing 100M trips. It took 35 minutes
+https://github.com/erichho/Jobsity-Challenge/blob/master/Log%20for%20100M%20trips.png
