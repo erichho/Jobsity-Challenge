@@ -1,0 +1,17 @@
+2022-04-28 20:12:06 - Database update process started.
+2022-04-28 20:12:06 - File loaded.
+2022-04-28 20:12:06 - Cleaning data
+2022-04-28 20:12:06 - Connected to trips database.
+2022-04-28 20:12:06 - Updating table "trips": 0%
+2022-04-28 20:12:06 - Updating table "trips": 10%
+2022-04-28 20:12:06 - Updating table "trips": 20%
+2022-04-28 20:12:06 - Updating table "trips": 30%
+2022-04-28 20:12:06 - Updating table "trips": 40%
+2022-04-28 20:12:06 - Updating table "trips": 50%
+2022-04-28 20:12:06 - Updating table "trips": 60%
+2022-04-28 20:12:06 - Updating table "trips": 70%
+2022-04-28 20:12:06 - Updating table "trips": 80%
+2022-04-28 20:12:06 - Updating table "trips": 90%
+2022-04-28 20:12:06 - Updating table "trips": 100%
+2022-04-28 20:12:06 - "trips" table update completed.
+2022-04-28 20:12:06 - Database updated. Processing time: 00:00:00.05
